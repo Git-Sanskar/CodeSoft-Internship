@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.my-bg-color{
+    background-color:black;
+
+}
+
+.my-bg-color1{
+    background-color: white;
+}
+
+.my-bg-color2{
+    background-color: black;
+}
+
+.my-font-color{
+    color: white;
+}
+
+.my-font-size1{
+    text-align: center;
+    font-size: 20px;
+}
+
+.my-font-size2{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.my-font-color1{
+    color: black;
+}
+
+#pt1{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.my-bg-color5{
+    background-color: rgb(138, 137, 137);
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
